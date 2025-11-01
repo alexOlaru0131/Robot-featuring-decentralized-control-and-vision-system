@@ -1,4 +1,4 @@
-# Robo-view
+# Robot featuring decentralized control and vision system
 
 The robot from this project is built to test the power of `6V DC engines`, to test the power of an `development board made by Espressif` and what I could do with a camera.
 
